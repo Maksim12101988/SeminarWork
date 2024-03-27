@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+wait: 5
+login: Testovich13
+passwd: 41502dcd87
+title: NEW POST
+description: SELENIUM HERE!
+content: THIS IS CONTENT BY SELENIUM!
